@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/action.php'>
+
+<table>
+<tr>
+<td><label for="Name">Name</label></td>
+<td><input type="text" id="name" name="name" value="Sundas"</td>
+</tr>
+
+<tr>
+<td><label for="Password">Name</label></td>
+<td><input type="password" id="password" name="password" value="0123456789"</td>
+</tr>
+
+
+
+
+<td><label for="Address">Name</label>
+<td><label for="Email">Name</label>
+<td><label for="contact">Name</label>
+<td><label for="Re">Name</label>
+
+
+
+
+
+
+
+</tr>
+
+
+
+</body>
